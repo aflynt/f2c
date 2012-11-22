@@ -12,6 +12,10 @@
 *.dylib
 
 # Executables
+f2c
 *.exe
 *.out
 *.app
+
+# Copies
+*.swp
